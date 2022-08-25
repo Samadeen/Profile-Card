@@ -1,0 +1,12 @@
+.App {
+  width: 20rem;
+  margin: 3rem auto 1rem;
+  background-color: #1a1b21;
+  border-radius: 0.4rem;
+}
+
+/* @media (max-width: 450px) {
+  .App {
+    width: 20rem;
+  }
+} */

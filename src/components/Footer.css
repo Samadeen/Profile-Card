@@ -1,0 +1,22 @@
+.footer {
+  background-color: #161619;
+  padding: 1rem 4rem;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.socials img {
+  width: 1.5rem;
+  height: 1.5rem;
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.socials img:hover {
+  transform: rotate(360deg);
+}
